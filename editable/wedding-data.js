@@ -77,4 +77,11 @@ window.WEDDING_DATA = {
     story2: "./editable/assets/story-2.webp",
     story3: "./editable/assets/story-3.webp",
   },
+
+  music: {
+    src: "./editable/assets/bg.mp3",
+    title: "Banke Tera Jogi",
+    autoplay: true,
+    loop: true,
+  },
 };

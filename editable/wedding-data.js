@@ -65,7 +65,10 @@ window.WEDDING_DATA = {
 
   footer: {
     families: `With Blessings & Warm Regards,\n\nLate Mrs. Poonam Shukla & Mr. Santosh Shukla & Family\n(Bride's Family)\n\n&\n\nMrs. Anamika Shukla & Mr. Anil Kumar Shukla & Family\n(Groom's Family)`,
-    contacts: [],
+    contacts: [
+      { name: "Groom's Family", phone: "9455043621" },
+      { name: "Groom's Family", phone: "9793140908" },
+    ],
   },
 
   images: {

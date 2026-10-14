@@ -94,6 +94,28 @@
           height: 44px;
         }
       }
+
+      /* Section Spacing Reductions - Remove extra spaces between sections */
+      main > section:not(:first-of-type) {
+        padding-top: 1.75rem !important;
+        padding-bottom: 1.75rem !important;
+      }
+      @media (min-width: 640px) {
+        main > section:not(:first-of-type) {
+          padding-top: 2.5rem !important;
+          padding-bottom: 2.5rem !important;
+        }
+      }
+      main > section .mt-12 {
+        margin-top: 1.5rem !important;
+      }
+      main > section .mt-10 {
+        margin-top: 1.25rem !important;
+      }
+      main > footer {
+        padding-top: 2.5rem !important;
+        padding-bottom: 2rem !important;
+      }
     </style>
   </head>
   <body>

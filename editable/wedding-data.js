@@ -14,46 +14,40 @@ window.WEDDING_DATA = {
 
   invite: {
     kicker: "Together with their families",
-    line: "cordially invite you to celebrate their wedding reception",
+    line: "cordially invite you to celebrate the Haldi & Mehendi Ceremony of Abhishek",
   },
 
   event: {
-    title: "Reception",
-    startsAt: "2026-11-27T19:00:00+05:30",
-    endsAt: "2026-11-27T23:30:00+05:30",
-    dateLabel: "27 . 11 . 2026",
-    dayLabel: "Friday",
-    timeLabel: "07.00 PM Onwards",
-    note: "Dinner & Celebrations to follow",
+    title: "Haldi & Mehendi Ceremony",
+    startsAt: "2026-11-22T18:00:00+05:30",
+    endsAt: "2026-11-22T23:00:00+05:30",
+    dateLabel: "22 . 11 . 2026",
+    dayLabel: "Sunday",
+    timeLabel: "06.00 PM Onwards",
+    note: "Celebrations & Dinner to follow",
   },
 
   venue: {
-    name: "Crystal Plaza",
-    address: "Patrakarpuram, Khyora, Kanpur, Uttar Pradesh (Near Pashupati Nath Temple)",
-    mapsQuery: "Crystal Plaza, Patrakarpuram, Khyora, Kanpur, Uttar Pradesh Near Pashupati Nath temple",
-    mapsUrl: "https://maps.app.goo.gl/vznf8HWdSEj7aioi6",
-    lat: 26.4958,
-    lng: 80.2858,
+    name: "Home",
+    address: "350 C, Rashtrapati Chauraha, Indira Nagar Road, Kalyanpur, Kanpur - 208026 (Near Tribhuvan Palace Guest house)",
+    mapsQuery: "350 C, Rashtrapati Chauraha, Indira Nagar Road, Kalyanpur, Kanpur, 208026",
+    mapsUrl: "https://maps.app.goo.gl/SM3Qfqdn8yRncSPG9",
+    lat: 26.4947,
+    lng: 80.2647,
   },
 
   story: [
     {
-      year: "27 November",
-      title: "WELCOME OF GUESTS",
-      text: "07.00 PM Onwards, Crystal Plaza, Kanpur",
-      image: "story-2",
-    },
-    {
-      year: "27 November",
-      title: "WEDDING RECEPTION",
-      text: "07.30 PM Onwards — Felicitation of Sonam & Abhishek, Crystal Plaza, Kanpur",
-      image: "story-1",
-    },
-    {
-      year: "27 November",
-      title: "DINNER & CELEBRATIONS",
-      text: "08.30 PM Onwards — Grand Dinner, Crystal Plaza, Kanpur",
+      year: "22 November",
+      title: "HALDI & MEHENDI CEREMONY",
+      text: "06.00 PM Onwards, Home, Kanpur",
       image: "story-3",
+    },
+    {
+      year: "22 November",
+      title: "SANGEET",
+      text: "06.00 PM Onwards, Home, Kanpur",
+      image: "story-2",
     },
   ],
 
@@ -64,7 +58,7 @@ window.WEDDING_DATA = {
   },
 
   footer: {
-    families: `With Blessings & Warm Regards,\n\nLate Mrs. Poonam Shukla & Mr. Santosh Shukla & Family\n(Bride's Family)\n\n&\n\nMrs. Anamika Shukla & Mr. Anil Kumar Shukla & Family\n(Groom's Family)`,
+    families: `With Blessings & Warm Regards,\n\nLate Mr. Shyam Gopal Shukla & Late Mrs. Prema Devi Shukla\n(Grandparents)\n\n&\n\nMrs. Anamika Shukla & Mr. Anil Kumar Shukla & Family\n(Parents)`,
     contacts: [
       { name: "Groom's Family", phone: "9455043621" },
       { name: "Groom's Family", phone: "9793140908" },

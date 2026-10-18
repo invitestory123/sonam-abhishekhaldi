@@ -77,7 +77,7 @@ window.WEDDING_DATA = {
 
   music: {
     src: "./editable/assets/bg.mp3",
-    title: "Banke Tera Jogi",
+    title: "Cutiepie",
     autoplay: true,
     loop: true,
   },

@@ -5,16 +5,18 @@
 
 window.WEDDING_DATA = {
   couple: {
-    bride: "Anamika",
-    brideShort: "Anamika",
-    groom: "Anil",
-    groomShort: "Anil",
-    footerText: "Sonam & Abhishek",
+    bride: "Sonam",
+    brideShort: "Sonam",
+    groom: "Abhishek",
+    groomShort: "Abhishek",
     hashtag: "#SonamWedsAbhishek",
   },
 
   invite: {
     kicker: "With the blessings of their family,",
+    hostsFirst: "Anamika",
+    hostsSecond: "Anil",
+    hosts: "Anamika and Anil",
     line: "cordially invite you to celebrate the Haldi & Mehendi Ceremony of Abhishek",
   },
 
@@ -56,7 +58,7 @@ window.WEDDING_DATA = {
     line: "May divine blessings, joy, and auspiciousness shine upon your new beginning.",
     translation: "With love, prayers, and heartfelt blessings as our beloved Abhishek is adorned with sacred haldi for a joyous lifetime of happiness.",
     source: "A blessing from Groom's Family",
-    name: "Abhishek",
+    honoree: "Abhishek",
   },
 
   footer: {
